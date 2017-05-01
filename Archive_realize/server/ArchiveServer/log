@@ -1,0 +1,88 @@
+2017-05-01 01:13:12 INFO  MainServer: - 1111.xml is validate!
+2017-05-01 01:13:12 INFO  ParserHandler: - JDOM load Users!
+2017-05-01 01:13:12 INFO  MainServer: - 2222.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - antoha.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - NEW.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - Ivanov_Ivan_Ivanovich.xml is validate!
+2017-05-01 01:13:12 INFO  ParserHandler: - JDOM load Persons!
+2017-05-01 01:13:12 INFO  MainServer: - Karachun_Anton_Sergeevich.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - Karachun_Nikita_Alex.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - Vasileuski_Ivan_Anatolievich.xml is validate!
+2017-05-01 01:13:12 INFO  MainServer: - Server connected!
+2017-05-01 01:14:22 INFO  ParserHandler: - Server handled 'USERVALIDATE' request!
+2017-05-01 01:14:22 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:22 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:22 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:23 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:23 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:24 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:24 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:25 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:25 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:26 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:26 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:27 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:27 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:28 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:29 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:29 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:30 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:30 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:31 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:31 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:32 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:36 INFO  ParserHandler: - Server handled 'ADDPERSON' request!
+2017-05-01 01:14:36 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:36 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:37 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:37 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:38 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:38 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:39 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:39 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:40 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:40 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:41 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:41 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:41 INFO  ParserHandler: - Server handled 'EDIT' request!
+2017-05-01 01:14:42 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:42 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:43 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:43 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:44 INFO  ParserHandler: - Server handled 'DELETE' request!
+2017-05-01 01:14:44 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:44 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:45 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:45 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:45 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:46 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:46 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:47 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:47 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:48 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:48 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:49 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:49 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:50 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:50 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:51 INFO  ParserHandler: - Server handled 'SHOWALL' request!
+2017-05-01 01:14:51 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:52 INFO  ParserHandler: - Server handled 'SEARCH' request!
+2017-05-01 01:14:52 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:53 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:54 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:55 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:56 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:57 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:58 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:59 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:14:59 INFO  ParserHandler: - Server handled 'CHANGEPARSER' request!
+2017-05-01 01:15:00 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:01 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:02 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:03 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:04 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:05 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:05 INFO  ParserHandler: - Server handled 'CHANGERIGHTS' request!
+2017-05-01 01:15:06 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!
+2017-05-01 01:15:07 INFO  ParserHandler: - Server handled 'GETUSERTABLE' request!

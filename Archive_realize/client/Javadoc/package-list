@@ -1,0 +1,7 @@
+
+com.epam.archive.client
+com.epam.archive.client.controllers
+com.epam.archive.client.controllers.threads
+com.epam.archive.mainGui
+com.epam.archive.models
+com.epam.archive.service

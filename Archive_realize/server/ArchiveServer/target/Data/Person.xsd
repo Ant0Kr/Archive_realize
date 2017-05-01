@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   
+    <xsd:element name="models.Person">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="surname" type="xsd:string"/>
+				<xsd:element name="name" type="xsd:string"/>
+				<xsd:element name="fathername" type="xsd:string"/>
+				<xsd:element name="phone" type="xsd:string"/>
+				<xsd:element name="email" type="xsd:string"/>
+				<xsd:element name="nameJob" type="xsd:string"/>
+				<xsd:element name="experienceJob" type="xsd:string"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	
+	</xsd:element>
+   
+    
+
+   
+    
+</xsd:schema>

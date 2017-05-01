@@ -1,0 +1,10 @@
+2017-05-01 01:14:21 INFO  MainClient: - System connected to server.
+2017-05-01 01:14:23 INFO  ClientEntranceController: - User entered into system.
+2017-05-01 01:14:32 INFO  ClientDialogController: - Person entry:1 TextField@80819f0[styleClass=text-input text-field] added in archive.
+2017-05-01 01:14:41 INFO  ClientDialogController: - Person entry:1 1 was edit.
+2017-05-01 01:14:44 INFO  ClientMainController: - User delete '1 1' from archive.
+2017-05-01 01:14:52 INFO  ClientMainController: - User made search request.
+2017-05-01 01:14:55 INFO  ClientMainController: - Admin change parser for loading data on JDOM.
+2017-05-01 01:14:59 INFO  ClientMainController: - Admin changed parser for NEW.
+2017-05-01 01:15:05 INFO  ClientMainController: - Admin changed rights for NEW.
+2017-05-01 01:15:08 INFO  ClientMainController: - User exit from system.
